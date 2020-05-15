@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "organization.name",
+    "type": "java.lang.String",
+    "description": "A description for 'organization.name'"
+  },
+  {
+    "name": "service.welcome.message",
+    "type": "java.lang.String",
+    "description": "A description for 'service.welcome.message'"
+  }
+]}
